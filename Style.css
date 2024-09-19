@@ -15,9 +15,27 @@ div{
 p {
     color: red;
     background-color: rgb(44, 212, 212);
-    padding: 10px 150px 10px 150px;
+   /* padding: 10px 150px 10px 150px;*/
+   display: flex;
+   justify-content: center;
+   align-items: center;
 }
 
 .caixa {
     background-color: aquamarine;
 }
+
+span{
+    display:flex;
+    background-color: blue;
+    justify-content:left   
+}
+.menu-wrapper {
+    align-items:top;
+    justify-content: center;
+    text-align: center;
+    padding: 10px 20px;
+    margin-left: 130px;
+    margin: 1px 10px;
+}
+
