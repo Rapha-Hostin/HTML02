@@ -1,0 +1,23 @@
+h1 {
+    color: rgb(0, 0, 0);
+    background-color: aquamarine;
+    border-color: black 8px;
+    padding: 20px;
+    text-align: center;
+    text-size-adjust: 22;
+}
+
+div{
+    color: black;
+    background-color: blueviolet;
+}
+
+p {
+    color: red;
+    background-color: rgb(44, 212, 212);
+    padding: 10px 150px 10px 150px;
+}
+
+.caixa {
+    background-color: aquamarine;
+}
